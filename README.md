@@ -93,12 +93,6 @@ mvn test
 
 ---
 
-## 📷 Screenshots (Optional but Recommended)
-
-*Add screenshots of API responses or UI (if any) here*
-
----
-
 ## 🔮 Future Enhancements
 
 * 🔐 JWT Authentication & Authorization
